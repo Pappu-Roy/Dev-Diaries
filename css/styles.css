@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    
+    /* NEW: Awesome body background */
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background-attachment: fixed;
+}
+
+main {
+    flex: 1;
+    padding-top: 2rem; /* Add some top padding to avoid content being under the fixed navbar */
+}
+
+/* Custom styles for the dropdown menu */
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
