@@ -64,4 +64,4 @@ Open your web browser and go to http://localhost/your-project-folder-name/.
 🤝 Contribution
 This project is a personal portfolio piece. While I am not actively looking for contributions, feel free to fork the repository and use it for your own learning purposes.
 
-Pappu Roy | Aspiring Software Engineer
+Pappu Roy | CSE SUST | Aspiring Software Engineer
